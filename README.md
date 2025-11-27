@@ -21,15 +21,3 @@ Automated deployment of Nginx using Ansible Roles on Ubuntu.
 
 
 
-### 4️⃣ Scroll down → Commit new file
-- Add a commit message like: `Add README with project description and usage`
-- Choose **Commit directly to main**  
-- Click **Commit new file**
-
----
-
-After this, your README.md will appear in the repo immediately, and you don’t need to use Git locally for it. ✅
-
-If you want, I can **also make it prettier with badges and project link** so it looks professional for recruiters.  
-
-Do you want me to do that?
